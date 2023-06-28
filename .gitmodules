@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bamlss"]
 	path = bamlss
 	url = https://github.com/cran/bamlss
-	shallow = true
-	registered = true
 [submodule "BayesX"]
 	path = BayesX
 	url = https://github.com/cran/BayesX
-	shallow = true
-	registered = true
 [submodule "BayesXsrc"]
 	path = BayesXsrc
 	url = https://github.com/cran/BayesXsrc
-	shallow = true
-	registered = true
 [submodule "R2BayesX"]
 	path = R2BayesX
 	url = https://github.com/cran/R2BayesX
-	shallow = true
-	registered = true
