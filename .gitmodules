@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bamlss"]
-	path = bamlss
-	url = https://github.com/cran/bamlss
 [submodule "BayesX"]
 	path = BayesX
 	url = https://github.com/cran/BayesX
@@ -14,3 +11,6 @@
 [submodule "R2BayesX"]
 	path = R2BayesX
 	url = https://github.com/cran/R2BayesX
+[submodule "bamlss"]
+	path = bamlss
+	url = https://github.com/cran/bamlss
