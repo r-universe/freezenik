@@ -1,16 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/freezenik/freezenik.r-universe.dev
 	branch = HEAD
-[submodule "BayesX"]
-	path = BayesX
-	url = https://github.com/cran/BayesX
-[submodule "BayesXsrc"]
-	path = BayesXsrc
-	url = https://github.com/cran/BayesXsrc
-[submodule "R2BayesX"]
-	path = R2BayesX
-	url = https://github.com/cran/R2BayesX
+[submodule "JMbayes"]
+	path = JMbayes
+	url = https://codeberg.org/zeileis/JMbayes
 [submodule "bamlss"]
 	path = bamlss
-	url = https://github.com/cran/bamlss
+	url = https://codeberg.org/nikum/bamlss
