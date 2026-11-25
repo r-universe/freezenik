@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/freezenik/freezenik.r-universe.dev
 	branch = HEAD
-[submodule "JMbayes"]
-	path = JMbayes
-	url = https://codeberg.org/zeileis/JMbayes
+[submodule "JMbamlss"]
+	path = JMbamlss
+	url = https://codeberg.org/zeileis/JMbamlss
 [submodule "bamlss"]
 	path = bamlss
 	url = https://codeberg.org/nikum/bamlss
