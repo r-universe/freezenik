@@ -2,9 +2,18 @@
 	path = .registry
 	url = https://github.com/freezenik/freezenik.r-universe.dev
 	branch = HEAD
+[submodule "BayesX"]
+	path = BayesX
+	url = https://codeberg.org/nikum/BayesX
+[submodule "BayesXsrc"]
+	path = BayesXsrc
+	url = https://codeberg.org/nikum/BayesXsrc
 [submodule "JMbamlss"]
 	path = JMbamlss
-	url = https://codeberg.org/zeileis/JMbamlss
+	url = https://codeberg.org/nikum/JMbamlss
+[submodule "R2BayesX"]
+	path = R2BayesX
+	url = https://codeberg.org/nikum/R2BayesX
 [submodule "bamlss"]
 	path = bamlss
 	url = https://codeberg.org/nikum/bamlss
